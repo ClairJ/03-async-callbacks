@@ -1,0 +1,17 @@
+{
+  "name": "lab03-joel",
+  "version": "1.0.0",
+  "description": "Async loading",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "joel clair",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^22.1.2"
+  }
+}
